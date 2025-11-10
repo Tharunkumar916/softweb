@@ -1081,6 +1081,15 @@ Publish the website in the given URL.
 
 ## OUTPUT:
 
+![WhatsApp Image 2025-11-10 at 11 09 03_aba4c5a7](https://github.com/user-attachments/assets/4d86cb3b-78ec-4ff1-a719-73a98ce21fd0)
+
+![WhatsApp Image 2025-11-10 at 11 11 48_0d01acb5](https://github.com/user-attachments/assets/15b05b2b-5d7a-4df0-a9b9-364873638366)
+
+<img width="1038" height="599" alt="Screenshot 2025-11-10 091348" src="https://github.com/user-attachments/assets/07268833-216f-4eea-8eba-94be9362ef4e" />
+
+<img width="1027" height="591" alt="Screenshot 2025-11-10 091405" src="https://github.com/user-attachments/assets/57faeb40-e8fb-4c3e-9ece-71913ce49fde" />
+<img width="1036" height="589" alt="Screenshot 2025-11-10 092851" src="https://github.com/user-attachments/assets/94e4577b-9ff3-4dfe-8f29-818fc5707be2" />
+<img width="1025" height="580" alt="Screenshot 2025-11-10 092906" src="https://github.com/user-attachments/assets/91fdb853-4b1c-4c06-8f04-bd8cf635a5d1" />
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
