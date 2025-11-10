@@ -679,8 +679,9 @@ Publish the website in the given URL.
     <h2>Our Culinary Artists</h2>
     <div class="chefs">
         <div class="chef-card">
-            <a href="chef1.html"><img src="https://lh3.googleusercontent.com/a/ACg8ocIp7Feb0yNJl1_j8OjNTU981J8qT7XHdMf_CRwr3jtMSvcEFbE=s360-c-no" alt="Chef 1" width="500px"></a>
-            <h3>BTU</h3>
+            <a href="chef1.html"><img src="![WhatsApp Image 2025-10-29 at 10 44 56_1dfba6ae](https://github.com/user-attachments/assets/228c61b0-5e39-48d0-bb84-1033dce4f35c)"
+></a>
+            <h3>VTK</h3>
             <p>CEO - BITEBOX</p>
         </div>  
 
