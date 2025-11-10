@@ -586,6 +586,7 @@ Publish the website in the given URL.
 
 
 ```
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -679,8 +680,7 @@ Publish the website in the given URL.
     <h2>Our Culinary Artists</h2>
     <div class="chefs">
         <div class="chef-card">
-            <a href="chef1.html"><img src="![WhatsApp Image 2025-10-29 at 10 44 56_1dfba6ae](https://github.com/user-attachments/assets/228c61b0-5e39-48d0-bb84-1033dce4f35c)"
-></a>
+            <a href="chef1.html"><img src="c:\Users\admin\Downloads\tharun.jpg"></a>
             <h3>VTK</h3>
             <p>CEO - BITEBOX</p>
         </div>  
@@ -727,6 +727,8 @@ Publish the website in the given URL.
 
 </body>
 </html>
+
+
 
 
 
